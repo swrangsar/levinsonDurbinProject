@@ -1,0 +1,6 @@
+close all; clear all;
+
+cd ~/Desktop/
+
+x = [ 2 5 7]';
+M = [3 8 7; 8 
